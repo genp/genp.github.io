@@ -522,7 +522,11 @@ ol#post-list {
     width: -moz-calc(100% - 200px);
     width: -webkit-calc(100% - 200px);
 }    
-
+@media (max-width:500px) {
+   .project_content {
+       width: 90%;
+   }
+}
 
         
 .project_excerpt {
