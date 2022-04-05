@@ -78,13 +78,13 @@ div.rightblock {
     line-height: 12px;
     padding-top: 6px;
     padding-bottom: 6px;
-    color: #3F704D;
+    color: #490665; /* #3F704D;/* #990000; */
     text-decoration: none;
     font-weight: bold;
 }
 #navbar li>a:hover {
     text-decoration: none;
-    color: #731D1D;
+    color: #E514A3; /* #731D1D; */
 }
 button.navbar-toggle {
     position: absolute;
@@ -179,7 +179,7 @@ div.spacer {
 h1, h2, h3 {
     font-family: 'Josefin Slab', Helvetica, Arial, sans-serif;
 /*     text-transform: uppercase; */
-    color: #3F704D;/* #990000; */
+    color: #490665; /* #3F704D;/* #990000; */
     margin-bottom: 0px;
     font-weight: 700;
     text-align: left;
@@ -210,7 +210,7 @@ pre {
 
 li:target {
     background-color: #FFFFCC;
-    border: 1px dotted #3F704D;
+    border: 1px dotted #490665; /* #3F704D;/* #990000; */
 /*     font-weight: bold; */
 }
 div.announcement .icon {
@@ -388,7 +388,7 @@ ol#post-list {
 
 }
 .phd-listing a.school, .dbms-listing a.dbms {
-    border-bottom: 1px #3F704D dotted;
+    border-bottom: 1px #490665 dotted;
 }
 .phd-listing a.school:hover, .dbms-listing a.dbms:hover {
     border-bottom: none;
