@@ -10,13 +10,13 @@ body {
     margin-right: 12%;
 }
 a {
-    color: #3F704D;/* #990000; */
+    color: #490665; /* #3F704D;/* #990000; */
     text-decoration: none;
     font-weight: bold;
 }
 a:hover {
     text-decoration: none;
-    color: #731D1D;
+    color: #E514A3; /* #731D1D; */
 }
 
 .page-header {
